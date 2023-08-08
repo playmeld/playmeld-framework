@@ -1,0 +1,17 @@
+{
+  "name": "com.playmeld.playmeld-framework",
+  "version": "0.0.1",
+  "displayName": "Playmeld Framework",
+  "description": "Framework for game build",
+  "unity": "2022.3",
+  "documentationUrl": "",
+  "changelogUrl": "",
+  "licensesUrl": "",
+  "dependencies": {},
+  "keywords": [],
+  "author": {
+    "name": "playmeld",
+    "email": "playmeld@playmeld.com",
+    "url": "https://www.playmeld.com"
+  }
+}
